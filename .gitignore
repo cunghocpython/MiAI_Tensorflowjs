@@ -3,3 +3,5 @@ venv/*
 ven*
 data/*
 data*
+models
+models/*
