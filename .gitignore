@@ -2,10 +2,10 @@
 vev*
 venv/*
 ven*
-#data/*
-#data*
-#models
-#models/*
+data/*
+data*
+models
+models/*
 =======
 #vev*
 #venv/*
