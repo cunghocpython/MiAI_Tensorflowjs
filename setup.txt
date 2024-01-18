@@ -5,3 +5,6 @@ tensorflowjs
 pillow
 flask
 flask-cors
+tensorflow_decision_forests
+PyInquirer==1.0.3
+tensorrt
