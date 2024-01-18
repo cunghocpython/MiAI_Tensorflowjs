@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 vev*
 venv/*
 ven*
@@ -5,3 +6,12 @@ ven*
 #data*
 #models
 #models/*
+=======
+#vev*
+#venv/*
+#ven*
+data/*
+data*
+models
+models/*
+>>>>>>> 708ea56 (Update all files)
